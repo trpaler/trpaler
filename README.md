@@ -1,10 +1,7 @@
 ### Hey there! 
 
 
-##### I'm a software developer from Cebu, Philippines. I'm currently learning animation using Greensock.
-
-
-##### Currently making my own website too. Should be up soon 😄
+##### I'm a software developer from Cebu, Philippines. 
 
 <!--
 **trpaler/trpaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
